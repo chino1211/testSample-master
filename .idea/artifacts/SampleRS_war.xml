@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SampleRS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SampleRS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SampleRS:war exploded" />
+    </root>
+  </artifact>
+</component>
